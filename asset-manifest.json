@@ -1,13 +1,13 @@
 {
-  "main.css": "/todo-board/static/css/main.4688ddf9.chunk.css",
-  "main.js": "/todo-board/static/js/main.a2c70ab0.chunk.js",
-  "main.js.map": "/todo-board/static/js/main.a2c70ab0.chunk.js.map",
-  "runtime~main.js": "/todo-board/static/js/runtime~main.d1823f73.js",
-  "runtime~main.js.map": "/todo-board/static/js/runtime~main.d1823f73.js.map",
-  "static/js/2.b97e481e.chunk.js": "/todo-board/static/js/2.b97e481e.chunk.js",
-  "static/js/2.b97e481e.chunk.js.map": "/todo-board/static/js/2.b97e481e.chunk.js.map",
-  "index.html": "/todo-board/index.html",
-  "precache-manifest.14cca4233c01b48d837c3297fceb68d4.js": "/todo-board/precache-manifest.14cca4233c01b48d837c3297fceb68d4.js",
-  "service-worker.js": "/todo-board/service-worker.js",
-  "static/css/main.4688ddf9.chunk.css.map": "/todo-board/static/css/main.4688ddf9.chunk.css.map"
+  "main.css": "/todo-board-firebase/static/css/main.4688ddf9.chunk.css",
+  "main.js": "/todo-board-firebase/static/js/main.419ae4d7.chunk.js",
+  "main.js.map": "/todo-board-firebase/static/js/main.419ae4d7.chunk.js.map",
+  "runtime~main.js": "/todo-board-firebase/static/js/runtime~main.c6447288.js",
+  "runtime~main.js.map": "/todo-board-firebase/static/js/runtime~main.c6447288.js.map",
+  "static/js/2.0b2418e5.chunk.js": "/todo-board-firebase/static/js/2.0b2418e5.chunk.js",
+  "static/js/2.0b2418e5.chunk.js.map": "/todo-board-firebase/static/js/2.0b2418e5.chunk.js.map",
+  "index.html": "/todo-board-firebase/index.html",
+  "precache-manifest.34be97ba946443bcf9ca44965075f93b.js": "/todo-board-firebase/precache-manifest.34be97ba946443bcf9ca44965075f93b.js",
+  "service-worker.js": "/todo-board-firebase/service-worker.js",
+  "static/css/main.4688ddf9.chunk.css.map": "/todo-board-firebase/static/css/main.4688ddf9.chunk.css.map"
 }
