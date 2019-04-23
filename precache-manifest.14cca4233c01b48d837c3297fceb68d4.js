@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/todo-board/static/js/2.b97e481e.chunk.js"
   },
   {
-    "revision": "87849b168a095b79793181abeb01fc48",
+    "revision": "f399174c26f0cb8301c5c148acec05a8",
     "url": "/todo-board/index.html"
   }
 ];
